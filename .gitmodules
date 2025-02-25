@@ -4,3 +4,6 @@
 [submodule "IoT-assignment2"]
 	path = IoT-assignment2
 	url = git@github.com:Lucaaa31/IoT-assignment2.git
+[submodule "IoT-assignment3"]
+	path = IoT-assignment3
+	url = git@github.com:Lucaaa31/IoT-assignment3.git
