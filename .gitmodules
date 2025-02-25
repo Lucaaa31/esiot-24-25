@@ -1,4 +1,4 @@
-[submodule "esiot-23-24-assignment1"]
+[submodule "IoT-assignment1"]
 	path = esiot-23-24-assignment1
 	url = git@github.com:Lucaaa31/IoT-assignment1.git
 [submodule "IoT-assignment2"]
